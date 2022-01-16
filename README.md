@@ -11,5 +11,6 @@ I tend to add the following ML:
 3. Rec Sys
 
 Please enjoy!
+- 📫 Reach me .. arisara.p@math.sc.chula.ac.th
 
 Special thanks: AI and Machine Learning for Coders Book by Laurence Moroney
